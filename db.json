@@ -1,0 +1,50 @@
+{
+  "usuarios": [
+    {
+      "Id": 1,
+      "Usuario": "lgutierrez",
+      "Password": "asdasd",
+      "Token": "1234",
+      "DebeCambiarPass": "N"
+    },
+    {
+      "Id": 2,
+      "Usuario": "jmoreno",
+      "Password": "dasdas",
+      "Token": "22222",
+      "DebeCambiarPass": "N"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+ 	"juzgados": [
+		{
+			"Id" : 1,
+			"Juzgado" : "Juzgado 1",
+			"Estado" : "A"
+	
+		},
+		{
+			"Id" : 2,
+			"Juzgado" : "Juzgado 3",
+			"Estado" : "A"
+	
+		},
+		{
+			"Id" : 3,
+			"Juzgado" : "Juzgado 4",
+			"Estado" : "A"
+	
+		}
+	
+	]
+
+}

@@ -1,0 +1,30 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Wrap de json-server",
+  "author": "Leandro Gutierrez <leandrogutierrez148@gmail.com>",
+  "config": {
+    "unsafe-perm": true
+  },
+  "scripts": {
+    "start": "node jserver.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "encoding": "*",
+    "express": "^4.16.4",
+    "md5": "*",
+    "nconf": "*",
+    "json-server": "^0.14.0"
+  },
+  "optionalDependencies": {
+  },
+  "bin": {
+    "jserver": "jserver.js"
+  },
+  "preferGlobal": true,
+  "private": true,
+  "devDependencies": {
+  }
+}
