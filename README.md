@@ -1,1 +1,1 @@
-jserver is a little wrap from https://github.com/typicode/json-server did for fun
+jserver is a little wrap for https://github.com/typicode/json-server did for fun
